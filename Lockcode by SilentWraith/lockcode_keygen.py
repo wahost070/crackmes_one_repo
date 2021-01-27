@@ -9,23 +9,11 @@ The following hex strings were pulled from the program via reverse engineering
 
 Supposedly these are the portions that make up the password
 """
-"""
-import struct
-
-passx = [0x48426a50434a7a77, 0x6162486b41487342, 0x7a6c666459686d7a, 0x455550706168644c]
-
-x = ""
-for i in passx:
-    x.join(struct.pack(i))
-
-print(x)
-
-"""
 import string
 import random
 import subprocess
 
-passw = "wzJCPjBHBsHAkHbazmhYdflzLdhapPUE"
+passw = "wzJCPjBHBsHAkHbazmhYdflzLdhapPUE" # found within the program
 
 user_in = "test"
 
