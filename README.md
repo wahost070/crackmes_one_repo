@@ -2,7 +2,7 @@
 My keygens for the crackmes.one website
 
 ### https://crackmes.one/crackme/5c2acb8933c5d46a3882b8d4
-#Yuri's Simple Keygen
+# Yuri's Simple Keygen
 
 ### Output ###
 ```bash
