@@ -1,11 +1,11 @@
-# crackmes_one_repo
+### crackmes_one_repo
 My keygens for the crackmes.one website
 
-# https://crackmes.one/crackme/5c2acb8933c5d46a3882b8d4
+### https://crackmes.one/crackme/5c2acb8933c5d46a3882b8d4
 #Yuri's Simple Keygen
 
 ### Output ###
-
+```bash
 ┌──(kali㉿wahost070)-[~/…/_Studies/ReverseEngineering/crackmes_org/SimpleKeyGen]
 └─$ python3 kegen.py
 Key: uvoplmijnocdABTU
@@ -22,3 +22,4 @@ Good Serial
 
 Key: 67qrqrlm67DEqrMN
 Good Serial
+```
